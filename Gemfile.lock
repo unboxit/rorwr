@@ -43,6 +43,9 @@ GEM
     arel (8.0.0)
     bindex (0.5.0)
     builder (3.2.3)
+    bummr (0.4.0)
+      rainbow
+      thor
     byebug (10.0.2)
     capybara (2.18.0)
       addressable
@@ -120,6 +123,7 @@ GEM
       method_source
       rake (>= 0.8.7)
       thor (>= 0.18.1, < 2.0)
+    rainbow (3.0.0)
     rake (12.3.1)
     rb-fsevent (0.10.3)
     rb-inotify (0.9.10)
@@ -181,6 +185,7 @@ PLATFORMS
   ruby
 
 DEPENDENCIES
+  bummr
   byebug
   capybara (~> 2.13)
   coffee-rails (~> 4.2)
