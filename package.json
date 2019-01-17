@@ -9,7 +9,7 @@
     "react-dom": "^16.3.1"
   },
   "devDependencies": {
-    "webpack-dev-server": "2.11.2",
+    "webpack-dev-server": "3.1.14",
     "yarn": "^1.5.1"
   }
 }
